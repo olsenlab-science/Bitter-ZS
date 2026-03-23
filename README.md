@@ -1,6 +1,6 @@
-Efficient Water-Cooled Bitter-Type Electromagnet for Zeeman Slowing in Cold-Atom Experiments
+Efficient water-cooled Bitter-type electromagnet for Zeeman slowing in cold-atom experiments
 
 Rishav Koirala and Ben A. Olsen
-2025
+Review of Scientific Insturments, 2026
 
 Design Files, Simulations, and other supporting material
